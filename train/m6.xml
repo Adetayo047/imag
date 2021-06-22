@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crop_pic</folder>
+	<filename>m6.jpg</filename>
+	<path>C:\Users\ADETAYO\Desktop\Design\emekapics\image_with_mask\crop_pic\m6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>337</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_facemask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>150</ymin>
+			<xmax>237</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

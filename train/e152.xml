@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>e152.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\Design\emekapics\image_with_mask\without\e152.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>119</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_facemask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>60</ymin>
+			<xmax>94</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

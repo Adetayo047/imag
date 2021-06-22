@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>e177.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\Design\emekapics\image_with_mask\without\e177.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>55</width>
+		<height>63</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_facemask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>36</ymin>
+			<xmax>40</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

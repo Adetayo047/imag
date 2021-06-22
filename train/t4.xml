@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without</folder>
+	<filename>t4.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\Design\emekapics\image_with_mask\without\t4.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>437</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_facemask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>130</ymin>
+			<xmax>245</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>
